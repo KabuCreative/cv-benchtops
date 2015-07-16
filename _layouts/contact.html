@@ -1,0 +1,63 @@
+---
+layout: page
+---
+
+<div class="row">
+    <div class="span3 cv-details">
+        <span itemscope itemtype="http://schema.org/Organization">
+            <h3><span itemprop="name">{{ site.title }}</span></h3>
+            <p>
+                <i class="fa fa-map-marker"></i>
+                <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+                    <span itemprop="street-address">{{ site.street_address }}</span>,
+                    <span itemprop="locality">{{ site.city }}</span>,
+                    <span itemprop="region">{{ site.state }}</span>
+                    <span itemprop="postal-code">{{ site.postcode }}</span>
+                </span>
+            </p>
+            <p>
+                <i class="fa fa-phone"></i> <span itemprop="tel">{{ site.phone }}</span>
+            </p>
+            <p><i class="fa fa-envelope"></i> <a href="mailto:{{ site.email }}" class="cv-email"><span itemprop="email">{{ site.email }}</span></a></p>
+        </span>
+    </div>
+    <div class="span8">
+        To contact us, please fill in the form below.  Fields marked with * are required.
+        <form action="" id="contact-form" method="post">
+            <div class="control-group floatfield">
+                <label for="name">Name*</label>
+                <div class="controls">
+                    <input id="text" name="name" type="text" />
+                </div>
+            </div>
+            <div class="control-group floatfield">
+                <label for="phone">Phone</label>
+                <div class="controls">
+                    <input id="phone" name="phone" type="text" />
+                </div>
+            </div>
+            <div class="control-group floatfield">
+                <label for="email">Email*</label>
+                <div class="controls">
+                    <input id="email" name="email" type="text" />
+                </div>
+            </div>
+            <div class="control-group floatfield">
+                <label for="email">Enquiry Type</label>
+                <div class="controls">
+                    <select name="" id="">
+                        <option value="">Retail</option>
+                        <option value="">Trade</option>
+                    </select>
+                </div>
+            </div>
+            <div class="control-group floatfield">
+                <label for="email">Comments</label>
+                <div class="controls">
+                    <textarea name="" cols="50" rows="10" id="" ></textarea>
+                </div>
+            </div>
+            <input class="btn btn-inverse controls" id="contact-submit" value="Contact Us" type="submit">
+        </form>
+    </div>
+</div>

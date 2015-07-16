@@ -1,0 +1,28 @@
+// Mixins and generic classes
+
+@mixin h1-container {
+    border-bottom: 1px solid $mid-grey;
+    background: $white;
+}
+
+@mixin content-bg {
+    padding: 40px 0;
+}
+
+@mixin cv-box-style ($border-colour){
+    display: block;
+    background-color: $white;
+    border: 1px solid $border-colour;
+    padding: 3px;
+    @include box-shadow(1px, 1px, 5px, rgba(0, 0, 0, 0.1));
+}
+
+@mixin btn-style(){
+    font-family: $title;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.bordered-img {
+    @include cv-box-style($mid-grey/1.05);
+}

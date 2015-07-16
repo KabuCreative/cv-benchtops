@@ -1,0 +1,25 @@
+// Custom CSS for About Us Page
+
+.usps {
+    margin: 40px 0;
+    border: 1px solid $mid-grey;
+    background-color: $white;
+
+    .span4 {
+        padding: 20px;
+    }
+}
+
+.staff-photo {
+    width: 35%;
+    float: left;
+}
+
+.staff-details {
+    width: 57%;
+    float: right;
+
+    h5 {
+        margin-top: 0;
+    }
+}

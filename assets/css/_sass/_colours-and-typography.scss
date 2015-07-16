@@ -1,0 +1,73 @@
+// Colours
+
+$light-green: #cadd69;
+$mid-green: #c1d848;
+$dark-green: #9fb71b;
+$darkest-green: #788c0c;
+
+$menu-dark-green: #bdd64f;
+$menu-light-green: #d2e37c;
+
+$white: #fff;
+$light-grey: #f3f3f3;
+$grey: #ededed;
+$mid-grey: #e3e2e2;
+$mid-dark-grey: #b1b1b1;
+$dark-grey: #333;
+$black: #232122;
+
+
+// Textures
+
+$grey-texture: url('../../img/light_noise_diagonal.png');
+
+
+// Typography
+
+$title: 'Fjalla One', sans-serif;
+$copy: 'Arimo', sans-serif;
+
+body {
+    font-family: $copy;
+    color: $dark-grey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $title;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 34px;
+    margin: 20px 0 15px;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0 0 10px 0;
+}
+
+h3 {
+    font-size: 17px;
+    line-height: 20px;
+}
+
+h4 {
+
+}
+
+h5 {
+    font-family: $copy;
+    font-weight: bold;
+}
+
+p,
+li,
+label,
+input,
+button,
+select,
+textarea {
+    font-family: $copy;
+    font-size: 14px;
+}

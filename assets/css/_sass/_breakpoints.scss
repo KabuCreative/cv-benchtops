@@ -1,0 +1,25 @@
+// Define Responsive Break Points
+
+$break-sml-desktop: 1200px;
+$break-tablet: 979px;
+$break-sml-tablet: 767px;
+$break-phone: 480px;
+$break-sml-phone: 319px;
+
+
+// Add additional break point for four column layout
+
+@media (min-width: $break-phone) and (max-width: $break-sml-tablet) {
+
+    .row-fluid > [class*=span]:nth-child(2n+1) {
+        clear: both;
+        margin-left: 0;
+        float: left;
+    }
+
+    .row-fluid .span3 {
+        float: right;
+        width: 48.717948717948715%;
+        *width: 48.664757228587014%;
+    }
+}
