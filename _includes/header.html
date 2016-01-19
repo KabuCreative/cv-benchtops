@@ -1,64 +1,44 @@
-<div class="top-bar">
+<header>
+  <div class="top-bar">
     <div class="container">
-        <span itemscope itemtype="http://schema.org/Organization">
-            <a itemprop="url" href="{{ site.url }}" class="logo">
-                <img itemprop="logo" src="/assets/img/logo.png" alt="{{ site.title }}" title="{{ site.title }}" />
-            </a>
-        </span>
-
-        <span class="contact-details pull-right">
-            <span class="address">{{ site.street_address }}, {{ site.city }}</span>
-            <span class="phone">{{ site.phone }}</span>
-        </span>
+      <span itemscope itemtype="http://schema.org/Organization" class="logo">
+          <a itemprop="url" href="{{ site.url }}">
+              <img itemprop="logo" src="/assets/img/logo.png" alt="{{ site.title }}" title="{{ site.title }}" />
+          </a>
+      </span>
+      <div class="contact-details">
+        <span class="address">{{ site.street_address }}, {{ site.city }}</span>
+        <span class="phone">{{ site.phone }}</span>
+      </div>
+    </div>
+  </div>
+  <div class="bottom-bar">
+    <div class="container">
+      <nav>
+        <a href="/" {% if page.id == 'home' %}class="active"{% endif %}>
+            <i class="fa fa-home"></i>
+        </a>
+        <a href="/about-us/" {% if page.id == 'about' %}class="active"{% endif %}>
+            About Us
+        </a>
+        <a href="/benchtops/" {% if page.id == 'benchtops' %}class="active"{% endif %}>
+            Benchtops &amp; Vanities
+        </a>
+        <a href="/accessories/" {% if page.id == 'accessories' %}class="active"{% endif %}>
+            Accessories &amp; Fittings
+        </a>
+        <a href="/doors/" {% if page.id == 'doors' %}class="active"{% endif %}>
+            Doors by Albedor
+        </a>
+        <a href="/trade/" {% if page.id == 'trade' %}class="active"{% endif %}>
+            Trade
+        </a>
+        <a href="/contact-us/" {% if page.id == 'contact' %}class="active"{% endif %}>
+            Contact Us
+        </a>
         <span class="clearfix"></span>
+      </nav>
+      <div class="clearfix"></div>
     </div>
-</div>
-
-<div class="nav top-nav">
-    <div class="container">
-        <div class="navbar main-nav">
-            <button type="button" class="btn btn-inverse btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <i class="fa fa-align-justify"></i>&nbsp;<span class="caret"></span>
-            </button>
-            <div class="nav-collapse collapse">
-                <ul class="nav">
-                    <li>
-                        <a href="/" {% if page.id == 'home' %}class="active"{% endif %}>
-                            <i class="fa fa-home"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/about-us/" {% if page.id == 'about' %}class="active"{% endif %}>
-                            About Us
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/benchtops/" {% if page.id == 'benchtops' %}class="active"{% endif %}>
-                            Benchtops &amp; Vanities
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/accessories/" {% if page.id == 'accessories' %}class="active"{% endif %}>
-                            Accessories &amp; Fittings
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/doors/" {% if page.id == 'doors' %}class="active"{% endif %}>
-                            Doors by Albedor
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/trade/" {% if page.id == 'trade' %}class="active"{% endif %}>
-                            Trade
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/contact-us/" {% if page.id == 'contact' %}class="active"{% endif %}>
-                            Contact Us
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
+  </div>
+</header>

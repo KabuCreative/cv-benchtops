@@ -2,6 +2,7 @@
 
 @mixin h1-container {
     border-bottom: 1px solid $mid-grey;
+    border-top: 1px solid $mid-grey;
     background: $white;
 }
 
@@ -23,6 +24,15 @@
     font-weight: normal;
 }
 
-.bordered-img {
-    @include cv-box-style($mid-grey/1.05);
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+.clearfix {
+    display: block;
+    clear: both;
 }

@@ -6,27 +6,19 @@ permalink: /about-us/
 description: meta description here
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<div class="row">
+  <div class="col-1-3">
+    <img src="/assets/img/support-staff.jpg">
+  </div>
+  <div class="col-2-3">
+    <p>Since our foundation in 1989, we've grown to become central Victoria's leading supplier of benchtops and hardware, now employing over 25 local staff.</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+    <p>Founded by Craig (a cabinet maker by trade) and Ros Stephen, we began specialising in benchtops in 1992, following the purchase of a postforming machine to facilitate the rolling of laminate.  Since then, we've consistently invested in new technologies and materials to ensure we are at the cutting edge of the market.</p>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+    <p>Our business has been built on two principles: exceptional quality and personal service. Consistently delivering both has cemented our local reputation and led us to be trusted by central Victoria's largest cabinet makers and commercial outfitters.</p>
 
+    <p>Our clients span from simple domestic jobs, all the way through to large commercial projects, including Bendigo hospital and Latrobe University.</p>
 
-* 1989 founded - 3 or 4 staff members
-* ktichen cabinets - evolved to specialise in benchtops and hardware
-* 1991 bought first postforming machine - allowed the rolling of laminate
-* 25 staff members
-
-* Cabinet maker by trade - apprenticed in kerang, moved to melb, returned to bendigo after spending some of his childhood here.
-
-* Unique service
-* Quality finishes
-* customer service
-
-* Care for local customers, building reputation
-* customers include commercial - bendigo hospital, latrobe university.
-
-
-* photos of factory
-
+    <p><a href="/contact-us/">Contact us</a> today to find out how we can help you.</p>
+  </div>
+</div>

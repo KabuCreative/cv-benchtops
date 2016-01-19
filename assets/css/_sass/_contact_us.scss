@@ -12,14 +12,17 @@
 .cv-details {
     margin-bottom: 40px;
 
+    p {
+      margin: 5px 0;
+    }
+
     p,
     .cv-email {
         word-wrap: break-word;
     }
-
 }
 
-#contact-form{
+.contact-form{
     margin-top: 30px;
 
     input[type="text"], textarea {
@@ -27,9 +30,11 @@
     }
 
     label {
-        width: 110px;
-        text-align: left;
+        width: 170px;
+        text-align: right;
         float:left;
+        margin-right: 30px;
+        font-weight: bold;
     }
 
     label.error {
@@ -65,7 +70,7 @@
 
     #contact-submit {
         @include btn-style;
-        margin-left: 110px;
+        margin-left: 170px;
 
         @media (max-width: 359px) {
             margin-left: 0;

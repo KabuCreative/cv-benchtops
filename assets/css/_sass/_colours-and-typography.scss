@@ -17,39 +17,39 @@ $dark-grey: #333;
 $black: #232122;
 
 
-// Textures
-
-$grey-texture: url('../../img/light_noise_diagonal.png');
-
-
 // Typography
 
-$title: 'Fjalla One', sans-serif;
+$title: 'Roboto Condensed', sans-serif;
 $copy: 'Arimo', sans-serif;
 
 body {
     font-family: $copy;
     color: $dark-grey;
+    font-size: 15px;
+    line-height: 1.4;
+    font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $title;
-    font-weight: normal;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 0;
 }
 
 h1 {
-    font-size: 34px;
-    margin: 20px 0 15px;
+    font-size: 32px;
+    padding: 20px 0;
 }
 
 h2 {
-    font-size: 24px;
-    margin: 0 0 10px 0;
+    font-size: 25px;
+    padding: 10px 0;
 }
 
 h3 {
-    font-size: 17px;
-    line-height: 20px;
+    font-size: 22px;
+    padding: 10px 0;
 }
 
 h4 {
@@ -61,6 +61,12 @@ h5 {
     font-weight: bold;
 }
 
+span.subtitle {
+  display: block;
+  margin: -10px 0 30px 0;
+  font-style: italic;
+}
+
 p,
 li,
 label,
@@ -69,5 +75,31 @@ button,
 select,
 textarea {
     font-family: $copy;
-    font-size: 14px;
+}
+
+a {
+  color: $darkest-green;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
+.button {
+    border: 0;
+    display: inline-block;
+    background-color: $dark-grey;
+    color: $white;
+    border-radius: 2px;
+    font-family: $title;
+    padding: 15px 20px 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    &:hover {
+      text-decoration: none;
+      background-color: darken($dark-grey, 5);
+    }
 }
