@@ -32,6 +32,10 @@ body {
     font-weight: 400;
 }
 
+p {
+  padding-bottom: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: $title;
     font-weight: 500;
@@ -47,11 +51,14 @@ h1 {
 h2 {
     font-size: 25px;
     padding: 10px 0;
+    margin: 20px 0;
+    border-bottom: 1px solid $mid-grey;
 }
 
 h3 {
     font-size: 22px;
     padding: 10px 0;
+    margin: 10px 0;
 }
 
 h4 {
@@ -61,10 +68,6 @@ h4 {
 h5 {
     font-family: $copy;
     font-weight: bold;
-}
-
-p {
-  margin: 15px 0;
 }
 
 span.subtitle {
@@ -93,6 +96,9 @@ a {
 }
 
 
+
+// Buttons
+
 .button {
     border: 0;
     display: inline-block;
@@ -108,4 +114,15 @@ a {
       text-decoration: none;
       background-color: darken($dark-grey, 5);
     }
+}
+
+// Lists
+
+ol,
+ul {
+    margin: 20px 0 20px 40px;
+}
+
+ul {
+  list-style-type: circle;
 }
