@@ -1,0 +1,23 @@
+input,
+textarea,
+select {
+  border: 1px solid darken($mid-grey, 5);
+  padding: 5px;
+}
+
+input[type=text],
+select {
+  width: 200px;
+  max-width: 100%;
+}
+
+// Validation
+.unhappy {
+  border-color: $red;
+}
+
+.unhappyMessage {
+  display: block;
+  color: $red;
+  margin-top: 5px;
+}

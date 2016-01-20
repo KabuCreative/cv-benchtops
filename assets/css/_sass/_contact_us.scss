@@ -1,14 +1,5 @@
 // Custom CSS for Contact Page
 
-#map {
-    width: 100%;
-}
-
-#map_canvas {
-    width: 100%;
-    height: 260px;
-}
-
 .cv-details {
     margin-bottom: 40px;
 
@@ -22,62 +13,37 @@
     }
 }
 
-.contact-form{
-    margin-top: 30px;
+.contact-form {
+    padding-top: 20px;
 
     input[type="text"], textarea {
         background-color: $white;
     }
 
+    .field-group {
+      clear: both;
+      padding: 20px 0;
+    }
+
     label {
-        width: 170px;
-        text-align: right;
+        width: 120px;
         float:left;
         margin-right: 30px;
         font-weight: bold;
     }
 
-    label.error {
-        width: auto;
-        float: none;
-        display: inline-block;
-        margin-left: 20px;
-        color: $darkest-green;
-
-        @media (max-width: 500px) {
-            margin: 5px 0 0 110px;
-        }
-
-        @media (max-width: 359px) {
-            margin: 5px 0 0 0;
-        }
-    }
-
-    .controls {
+    .field {
         margin-left: 0;
-        display: block;
+        float: left;
 
         textarea {
             width: 450px;
             height: 150px;
-
-
-            @media (max-width: $break-tablet) {
-                width: 206px;
-            }
         }
     }
 
-    #contact-submit {
-        @include btn-style;
-        margin-left: 170px;
-
-        @media (max-width: 359px) {
-            margin-left: 0;
-        }
+    .contact-submit {
+      clear: both;
+      margin: 20px 0 0 150px;
     }
-}
-
-.confirm-well {
-    padding: 19px 19px 9px 19px;
 }
