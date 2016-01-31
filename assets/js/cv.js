@@ -8,7 +8,7 @@ $(document).ready(function() {
         },
         '#email': {
           required: true,
-          message: 'Please provide your email',
+          message: 'Please provide your email address',
           test: happy.email
         }
       }

@@ -1,20 +1,45 @@
 ---
-layout: page
+layout: two-column
 id: trade
 title: Trade
 permalink: /trade/
 description: meta description here
 ---
 
-* order forms
-* albidor forms
-* benchtop order forms
+We supply central Victoria's leading cabinet makers with high quality [benchtops](/benchtops), hardware, [doors](/doors), [accessories](/accessories) and [fittings](/accessories).
 
-Trade relationships:
+Our trade customers benefit from:
 
-* local
-* deliver on time
-* quality finish
+* Working with a local supplier, who is responsive to their needs
+* On time delivery
+* Consistent, high quality finish
+* Competitive pricing
 
+If you'd like to learn more about trade terms and pricing, please [contact us](/contact-us).
 
-* Wilson art distributor board
+### Trade Specials
+
+The following items are on sale for trade customers, until sold out:
+
+<table>
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Offer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A description of the product or category on special</td>
+      <td>A description of the sale.  For example, 20% off.</td>
+    </tr>
+    <tr>
+      <td>A description of the product or category on special</td>
+      <td>A description of the sale.  For example, 20% off.</td>
+    </tr>
+    <tr>
+      <td>A description of the product or category on special</td>
+      <td>A description of the sale.  For example, 20% off.</td>
+    </tr>
+  </tbody>
+</table>

@@ -113,6 +113,12 @@ header {
 
 .container.main-content {
     margin: 40px auto;
+
+    img {
+      border: 1px solid $mid-grey;
+      padding: 5px;
+      background-color: $white;
+    }
 }
 
 .content-bg {

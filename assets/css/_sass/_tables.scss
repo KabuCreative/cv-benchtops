@@ -3,13 +3,16 @@ table {
   margin: 0 0 40px;
   font-size: 90%;
   border-top: 1px solid darken($light-grey, 10);
+  border-right: 1px solid darken($light-grey, 10);
+  border-left: 1px solid darken($light-grey, 10);
+  text-align: left;
 
   tbody tr {
     border-bottom: 1px solid darken($light-grey, 10);
   }
 
-  tbody tr:nth-child(even) {
-    background-color: darken($light-grey, 5);
+  tbody tr:nth-child(odd) {
+    background-color: $white;
   }
 
   th,

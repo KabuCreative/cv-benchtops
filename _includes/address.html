@@ -1,0 +1,16 @@
+<div class="cv-details" itemscope itemtype="http://schema.org/Organization">
+    <h3><span itemprop="name">{{ site.title }}</span></h3>
+    <span class="subtitle">Factory and Showroom</span>
+    <p>
+        <i class="fa fa-map-marker"></i>
+        <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+            <span itemprop="street-address">{{ site.street_address }}</span>,
+            <span itemprop="locality">{{ site.city }}</span>,
+            <span itemprop="region">{{ site.state }}</span>
+            <span itemprop="postal-code">{{ site.postcode }}</span>
+        </span>
+    </p>
+    <p><i class="fa fa-phone"></i> <span itemprop="tel">{{ site.phone }}</span></p>
+    <p><i class="fa fa-fax"></i>{{ site.fax }}</p>
+    <p><i class="fa fa-envelope"></i> <a href="mailto:!email" class="cv-email"><span itemprop="email">{{ site.email }}</span></a></p>
+</div>

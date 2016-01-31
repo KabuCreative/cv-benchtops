@@ -6,55 +6,95 @@ permalink: /doors/
 description: meta description here
 ---
 
-## Albador
+## Doors
 
-We are an exclusive distributor for Albador, an industry leader in the manufacture of quality door and panel components.
+We are an exclusive distributor for Albador, an industry leader in the manufacture of quality door and panel components.  Through Albador we stock a wide range of high quality doors and panels, including:
 
-Through Albador we stock a wide range of high quality doors and panels, including:
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>Thermo Formed</h3>
+    <p>Albedor E0 Thermo Formed doors provide the ultimate in reliable, durable and easy to clean surfaces, in stylish finishes at an affordable price.</p>
 
-### Thermo Formed
+    <p>Backed by a 7 year manufacturers warranty, Thermo Formed doors are available in a comprehensive range of designs as well as a broad selection of finishes - from plain, satin, organics, surfacecoat, fino, plain gloss, gloss metallic and gloss printed surfaces.</p>
+  </div>
+</div>
 
-Albedor E0 Thermo Formed doors provide the ultimate in reliable, durable and easy to clean surfaces, in stylish finishes at an affordable price.
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>Ultra Finish</h3>
+    <p>Albedor Industries E0 Ultra Finish doors and panels are manufactured utilising advanced PUR Laminating Technology, and features a flawless finish and crisp square edge detail.</p>
 
-Backed by a 7 year manufacturers warranty, Thermo Formed doors are available in a comprehensive range of designs as well as a broad selection of finishes - from plain, satin, organics, surfacecoat, fino, plain gloss, gloss metallic and gloss printed surfaces.
+    <p>Albedor's Ultra Finish range reflects contemporary design, available in colours and textures ranging from earthy tones to inspiring woodgrains, classic styles and rich gloss colours.</p>
+  </div>
+</div>
 
-### Ultra Finish
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>True Reflections</h3>
+    <p>True Reflections by Albedor is the ultimate in mirror finish gloss surfaces.</p>
 
-Albedor Industries E0 Ultra Finish doors and panels are manufactured utilising advanced PUR Laminating Technology, and features a flawless finish and crisp square edge detail.
+    <p>True Reflections features the latest in European style and is the ideal choice for high gloss finishes in cabinetry, kitchens, shopfitting and other internal vertical surfaces, as well as being hard wearing and durable.</p>
 
-Albedor's Ultra Finish range reflects contemporary design, available in colours and textures ranging from earthy tones to inspiring woodgrains, classic styles and rich gloss colours.
+    <p>True Reflections is available in a select range of plain and exotic colours. Doors and panels can be finished in feature, contrast and complimentary edgeband. The combinations of colours and edgebands are endless and allows for a creative and individual look.</p>
+  </div>
+</div>
 
-Ultra Finish doors and panels are edged with exact match edging exclusive to Albedor or alternatively, select from our range of feature contrast edging options.
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>18mm White MR (for paint)</h3>
+    <p>Albedor Industries also manufacture the highest quality White MR (for paint white melamine both sides) doors and panels for painting.</p>
 
-Ultra Finish can be manufactured up to 5400mm in length and on a variety of thicknesses of MDF substrate. Ultra Finish doors and panels are suitable for vertical use in residential and commercial projects.
+    <p>Available in an extensive range of designs, Albedor White MR doors (for paint) are routed with square edges, prepared for paint. Edge details are also available.</p>
+  </div>
+</div>
 
-### True Reflections
 
-True Reflections by Albedor is the ultimate in mirror finish gloss surfaces.
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>18mm White MR (for paint)</h3>
+    <p>Albedor Industries also manufacture the highest quality White MR (for paint white melamine both sides) doors and panels for painting.</p>
 
-True Reflections features the latest in European style and is the ideal choice for high gloss finishes in cabinetry, kitchens, shopfitting and other internal vertical surfaces, as well as being hard wearing and durable.
+    <p>Available in an extensive range of designs, Albedor White MR doors (for paint) are routed with square edges, prepared for paint. Edge details are also available.</p>
+  </div>
+</div>
 
-True Reflections is available in a select range of plain and exotic colours. Doors and panels can be finished in feature, contrast and complimentary edgeband. The combinations of colours and edgebands are endless and allows for a creative and individual look.
+<div class="row brand">
+  <div class="col-1-3">
+    <img src="http://placehold.it/400x400" alt="wilson art logo">
+  </div>
+  <div class="col-2-3">
+    <h3>Nav Urban</h3>
+    <p>Nav Urban is manufactured utilizing advanced Laminating Technology, featuring a flawless finish and crisp square edge detail. Navurban is processed on E0 MDF board and edged with matching ABS edgeband.</p>
 
-True Reflections doors and panels are available in custom door sizes, various lengths and thicknesses of MDF substrate including 18mm E0 MRMDF, which complies with AS/NZS 1859.2 standards for low formaldehyde content.
 
-### 18mm White MR (for paint)
 
-Albedor Industries also manufacture the highest quality White MR (for paint white melamine both sides) doors and panels for painting.
+    Offering a collection of extensive range of colour tones and textured wood grains. Suitable for Interior Vertical Application in Kitchens, Bathrooms, Furniture and Commercial fit outs, durable and easy to clean, Nav Urban is a contemporary take on natural decorative surfaces.
 
-Available in an extensive range of designs, Albedor White MR doors (for paint) are routed with square edges, prepared for paint. Edge details are also available.
+  </div>
+</div>
+
+
 
 ### Decorative Panels
 
-Albedor Industries Decorative Panels create a feature look for your kitchen bar back, reception or commercial project. Available in all Thermo Formed colours and finishes. Manufacturing size up to 2400 x 1200mm.
+Albedor Industries Decorative Panels create a feature look for your kitchen bar back, reception or commercial project. Available in all Thermo Formed colours and finishes.
 
-For more information, or to view samples of this range please contact you sales representative or the office on (03) 9761 6330.
 
-### Nav Urban
-
-Nav Urban is manufactured utilizing advanced Laminating Technology, featuring a flawless finish and crisp square edge detail. Navurban is processed on E0 MDF board and edged with matching ABS edgeband.
-
-Offering a collection of extensive range of colour tones and textured wood grains. Suitable for Interior Vertical Application in Kitchens, Bathrooms, Furniture and Commercial fit outs, durable and easy to clean, Nav Urban is a contemporary take on natural decorative surfaces.
 
 ### Egger
 

@@ -37,7 +37,7 @@
   box-sizing: border-box;
   padding-left: 40px;
 
-  > :first-child {
+  > :first-child:not(img) {
     padding-top: 0 !important;
     margin-top: 0 !important;
   }

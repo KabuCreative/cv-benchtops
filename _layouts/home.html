@@ -4,37 +4,20 @@ layout: default
 <div class="banner-home">
   <div class="container">
     <div class="banner-message">
-      <h2>Need Kitchen Design Inspiration?</h2>
-      <a href="/contact-us/" class="button">Visit our showroom</a>
+      <h2>{{ page.banner_text }}</h2>
+      <a href="/contact-us/" class="button">{{ page.banner_link }}</a>
     </div>
   </div>
-
   <div class="green-bar">
     <div class="container">
+      {% for link in page.links %}
       <div class="link">
-          <a href="/benchtops/" class="homepage-box-link">
-              <img src="/assets/img/benchtops.jpg" alt="" title="" />
-              <span class="title">Benchtops &amp; Vanities</span>
+          <a href="{{ link.url }}" class="homepage-box-link">
+              <img src="/assets/img/{{ link.image_name }}" alt="{{ link.title }}" title="{{ link.title }}" />
+              <span class="title">{{ link.title }}</span>
           </a>
       </div>
-      <div class="link">
-          <a href="/accessories/" class="homepage-box-link">
-              <img src="/assets/img/fittings.jpg" alt="" title="" />
-              <span class="title">Accessories &amp; Fittings</span>
-          </a>
-      </div>
-      <div class="link">
-          <a href="/doors/" class="homepage-box-link">
-              <img src="/assets/img/doors.jpg" alt="" title="" />
-              <span class="title">Doors by Albedor</span>
-          </a>
-      </div>
-      <div class="link">
-          <a href="/trade/" class="homepage-box-link">
-              <img src="/assets/img/trade.jpg" alt="" title="" />
-              <span class="title">Trade</span>
-          </a>
-      </div>
+      {% endfor %}
       <div class="clearfix"></div>
     </div>
   </div>
@@ -42,32 +25,19 @@ layout: default
 
 <div class="h1-container home">
   <div class="container">
-    <h1>High Quality Benchtops &amp; Hardware</h1>
-    <p class="sub">
-      Servicing Bendigo, Mildura, Shepparton, Kyneton, Maryborough, Castlemaine, Swan Hill and surrounds
-    </p>
+    <h1>{{ page.title }}</h1>
+    <p class="sub">{{ page.sub_title }}</p>
   </div>
 </div>
 
 <div class="home-content-bg">
     <div class="container">
         <div class="row quarters">
+          {% for section in page.sections %}
             <div class="col-1-4">
-                <h3>What do we do?</h3>
-                <p>We are central Victoria's leading manufacturer of benchtops and supplier of kitchen hardware. We work with local cabinet makers to deliver quality kitchens to suit any style or budget.</p>
+                {{ section | markdownify }}
             </div>
-            <div class="col-1-4">
-                <h3>How can we help you?</h3>
-                <p>We can help you plan and source your new kitchen. Visit our showroom to discover our extensive range of materials and fittings - you'll be surprised at what options are available. </p>
-            </div>
-            <div class="col-1-4">
-                <h3>What areas do we service?</h3>
-                <p>As our name suggests, we service all of central Victoria, including Bendigo, Mildura, Shepparton, Kyneton, Maryborough, Castlemaine and Swan Hill.  Our showroom is located in Bendigo.</p>
-            </div>
-            <div class="col-1-4">
-                <h3>Why Choose us?</h3>
-                <p>Since 1989 we've built our business on quality - in our manufacturing, the products we supply, and in our customer support. Contact us to find out how we can help you.</p>
-            </div>
+          {% endfor %}
         </div>
     </div>
 </div>

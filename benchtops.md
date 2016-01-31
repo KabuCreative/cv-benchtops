@@ -6,7 +6,7 @@ permalink: /benchtops/
 description: meta description here
 ---
 
-<p>CV Benctops is central Victoria's leading manufacturer and installer of benchtops for both domestic and commercial clients.
+<p>CV Benchtops is central Victoria's leading manufacturer and installer of benchtops for both domestic and commercial clients.
 We work with a wide range of materials and can design your benchtop to complement any design.</p>
 
 <p><a href="/contact-us/">Contact us</a> or visit our showroom to discuss the right benchtop for your project.</p>
@@ -16,7 +16,7 @@ We work with a wide range of materials and can design your benchtop to complemen
 <p>Laminate is by far our most popular material as it is stain-resistant, waterproof, easy to maintain and very affordable.
 Today's laminate comes in an almost limitless range of colours, patterns and finishes; popular options include high-gloss, solid-colour and timber/stone finish.</p>
 
-<p>We work with Australia's leading laminate brands including Wilson Art, Lamanex and Formica to deliver high-quality laminate benchtops, everytime.</p>
+<p>We work with Australia's leading laminate brands including Wilson Art, Lamanex and Formica to deliver high-quality laminate benchtops, every time.</p>
 
 <div class="row brand">
   <div class="col-1-3">
@@ -45,7 +45,7 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
         </tr>
         <tr>
             <td>Laminex 180FX</td>
-            <td>Stylish and sophisticated laminate that relistically mimics natural stone by using innovative printing technology</td>
+            <td>Stylish and sophisticated laminate that realistically mimics natural stone by using innovative printing technology</td>
             <td><a href="/assets/brochures/laminex-180FX-brochure.pdf">Download Brochure</a></td>
         </tr>
     </table>
@@ -69,7 +69,7 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
         </tr>
         <tr>
             <td>Formica Europa</td>
-            <td>Classic european styles including realistic stone patterns, new solid colours and woodgrain prints</td>
+            <td>Classic European styles including realistic stone patterns, new solid colours and woodgrain prints</td>
             <td><a href="/assets/brochures/formica-europa-brochure.pdf">Download Brochure</a></td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
         </tr>
         <tr>
             <td>Wilsonart Premium Laminate</td>
-            <td>Premium laminate designins in faux stone and timber.</td>
+            <td>Premium laminate designs in faux stone and timber.</td>
             <td><a href="/assets/brochures/wilsonart-premium-laminate-brochure.pdf">Download Brochure</a></td>
         </tr>
         <tr>
@@ -112,7 +112,7 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
 
 <h2>Solid Surface</h2>
 
-<p>Solid Surface countertops are made of long-lasting, man-made acrylic. Solid surfaces are versitile, easy to clean, moisture and stain resistant and come in a huge variety of colours, patterns and finishes. This material can be moulded to almost any shape, with integrated sinks, drainboards and vanities increasingly popular.</p>
+<p>Solid Surface countertops are made of long-lasting, man-made acrylic. Solid surfaces are versatile, easy to clean, moisture and stain resistant and come in a huge variety of colours, patterns and finishes. This material can be moulded to almost any shape, with integrated sinks, splashbacks, drainboards and vanities increasingly popular.</p>
 
 <div class="row brand">
   <div class="col-1-3">
@@ -121,13 +121,13 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
   <div class="col-2-3">
     <h3>Corion by Dupont</h3>
 
-    <p>TODO.</p>
+    <p>Available in a vast range of patterns and tones, Corian solid surfaces offer homeowners a hige range of design choices and possibilities.</p>
 
     <table>
         <tr>
             <td>Colours of Corian</td>
             <td>Extensive range of block colours and patterns from Corian by Dupont.</td>
-            <td><a href="/assets/brochures/colours-of-corian.pdf">Download Brochure</a></td>
+            <td><a href="/assets/brochures/colours-of-corian-brochure.pdf">Download Brochure</a></td>
         </tr>
         <tr>
             <td>Corian at home</td>
@@ -145,13 +145,18 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
   <div class="col-2-3">
     <h3>Himax by LG</h3>
 
-    <p>TODO.</p>
+    <p>Strong, hygenic, renewable, sustainable and affordable.  Himax comes in a huge range of colours and styles and is backed by a 15 year warranty.</p>
 
     <table>
         <tr>
-            <td>Brochure Here</td>
-            <td>Description here.</td>
-            <td><a href="/assets/brochures/TODO.pdf">Download Brochure</a></td>
+            <td>Color Brochure</td>
+            <td>141 colors and styles to choose from, including solid colours and mock stones.</td>
+            <td><a href="/assets/brochures/HI-MACS_All_color_brochure.pdf">Download Brochure</a></td>
+        </tr>
+        <tr>
+            <td>Kicthen and Bath Reference Book</td>
+            <td>Cleaning and maintenance guidelines and design inspiration.</td>
+            <td><a href="/assets/brochures/HM_KB_Reference-low.pdf">Download Brochure</a></td>
         </tr>
     </table>
   </div>
@@ -179,8 +184,8 @@ Today's laminate comes in an almost limitless range of colours, patterns and fin
 
 <h2>Engineered Stone</h2>
 
-Engineered stone, also known as composite stone is a man-made material contstructed with powdered/crushed stone and resin.
-As an engineered product, it is considerably cheaper, less pourous and more visually consistent than solid/natural stone, whilst maintaining a sophisticated aesthetic.
+Engineered stone, also known as composite stone is a man-made material constructed with powdered/crushed stone and resin.
+As an engineered product, it is considerably cheaper, less porous and more visually consistent than solid/natural stone, whilst maintaining a sophisticated aesthetic.
 
 Engineered stone comes in a wide variety of colours and patterns and is a stylish addition to any home.
 
@@ -244,7 +249,7 @@ Engineered stone comes in a wide variety of colours and patterns and is a stylis
   <div class="col-2-3">
     <h3>Essa Stone</h3>
 
-    <p>Essastone is a leading engineered stone manufactured by lamanex and backed by a 15 year limited warranty.</p>
+    <p>Essastone is a leading engineered stone manufactured by Lamanex and backed by a 15 year limited warranty.</p>
 
     <table>
         <tr>

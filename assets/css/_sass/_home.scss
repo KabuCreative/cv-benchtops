@@ -58,7 +58,6 @@
         line-height: 1.2;
         text-transform: uppercase;
         color: $dark-grey;
-        text-align: right;
         position: absolute;
         bottom: 0;
         left: 50%;
@@ -69,7 +68,7 @@
         transform: translate(-50%, 0%);
         box-sizing: border-box;
         width: 100%;
-        padding: 15px 10px 12px;
+        padding: 15px 5px 12px;
         background-color: $white;
     }
 
