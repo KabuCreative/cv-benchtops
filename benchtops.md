@@ -6,7 +6,7 @@ permalink: /benchtops/
 description: meta description here
 ---
 
-<p>CV Benchtops is central Victoria's leading manufacturer and installer of benchtops for both domestic and commercial clients.
+<p>CV Benchtops is Central Victoria's leading manufacturer and installer of benchtops for both domestic and commercial clients.
 We work with a wide range of materials and can design your benchtop to complement any design.</p>
 
 <p><a href="/contact-us/">Contact us</a> or visit our showroom to discuss the right benchtop for your project.</p>

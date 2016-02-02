@@ -1,0 +1,17 @@
+// Benchtops / Accessories / Doors
+
+.brand {
+  padding: 25px 0;
+
+  table {
+    table-layout: fixed;
+    tr td:first-child {
+      width: 240px;
+    }
+
+    tr td:last-child {
+      width: 170px;
+      text-align: right;
+    }
+  }
+}

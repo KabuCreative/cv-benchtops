@@ -6,7 +6,7 @@ permalink: /trade/
 description: meta description here
 ---
 
-We supply central Victoria's leading cabinet makers with high quality [benchtops](/benchtops), hardware, [doors](/doors), [accessories](/accessories) and [fittings](/accessories).
+We supply Central Victoria's leading cabinet makers with high quality [benchtops](/benchtops), hardware, [doors](/doors), [accessories](/accessories) and [fittings](/accessories).
 
 Our trade customers benefit from:
 
