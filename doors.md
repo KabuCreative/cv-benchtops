@@ -8,7 +8,7 @@ description: meta description here
 
 ## Doors
 
-We are an exclusive distributor for Albador, an industry leader in the manufacture of quality door and panel components.  Through Albador we stock a wide range of high quality doors and panels, including:
+We are an exclusive distributor for Albedor, an industry leader in the manufacture of quality door and panel components.  Through Albedor we stock a wide range of high quality doors and panels, including:
 
 <div class="row brand">
   <div class="col-1-3">
@@ -24,7 +24,7 @@ We are an exclusive distributor for Albador, an industry leader in the manufactu
       <tr>
         <td>Thermo Formed</td>
         <td>Colours and finishes.</td>
-        <td><a href="/assets/brochures/albedor-thermo-formed-brochure.pdf">Download Brochure</a></td>
+        <td><a href="/assets/brochures/albedor-thermo-formed-brochure.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>
   </div>
@@ -44,7 +44,7 @@ We are an exclusive distributor for Albador, an industry leader in the manufactu
       <tr>
         <td>Ultra Finish</td>
         <td>Colour palette and example applications.</td>
-        <td><a href="/assets/brochures/albedor-ultra-finish-brochure.pdf">Download Brochure</a></td>
+        <td><a href="/assets/brochures/albedor-ultra-finish-brochure.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>
   </div>
@@ -63,7 +63,7 @@ We are an exclusive distributor for Albador, an industry leader in the manufactu
       <tr>
         <td>True Reflections</td>
         <td>Colour palette, example applications and care instructions.</td>
-        <td><a href="/assets/brochures/albedor-true-reflections-brochure.pdf">Download Brochure</a></td>
+        <td><a href="/assets/brochures/albedor-true-reflections-brochure.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>    
   </div>
@@ -82,7 +82,7 @@ We are an exclusive distributor for Albador, an industry leader in the manufactu
       <tr>
         <td>Raw Doors</td>
         <td>Styles and finished examples.</td>
-        <td><a href="/assets/brochures/albedor-raw-doors-brochure.pdf">Download Brochure</a></td>
+        <td><a href="/assets/brochures/albedor-raw-doors-brochure.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>    
   </div>
@@ -100,7 +100,7 @@ We are an exclusive distributor for Albador, an industry leader in the manufactu
       <tr>
         <td>Decorative Panels</td>
         <td>Example domestic applications.</td>
-        <td><a href="/assets/brochures/albedor-decorative-panels.pdf">Download Brochure</a></td>
+        <td><a href="/assets/brochures/albedor-decorative-panels.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>   
   </div>
@@ -116,20 +116,20 @@ StyleLite is supplied in the form of laminated panels, in a range of thicknesses
     <img src="http://placehold.it/400x400" alt="wilson art logo">
   </div>
   <div class="col-2-3">
-    <p>StyleLite is supplied by your architect, interior designer or builder. You can also discuss StyleLite with your local kitchen supplier or cabinetmaker.</p>
+    <p>StyleLite features:</p>
 
     <ul>
       <li>Supererior high glass - ripple free appearance</li>
-      <li>Highly resistent to heat and moisture</li>
+      <li>Highly resistant to heat and moisture</li>
       <li>Beautifully finished edges</li>
-      <li>Extensive color range</li>
+      <li>Extensive colour range</li>
     </ul>
 
     <table>
       <tr>
         <td>Stylite Doors</td>
-        <td>Color range and example gallery.</td>
-        <td><a href="/assets/brochures/stylelite-doors-brochure.pdf">Download Brochure</a></td>
+        <td>Colour range and example gallery.</td>
+        <td><a href="/assets/brochures/stylelite-doors-brochure.pdf" target="_blank">Download Brochure</a></td>
       </tr>
     </table>
   </div>
